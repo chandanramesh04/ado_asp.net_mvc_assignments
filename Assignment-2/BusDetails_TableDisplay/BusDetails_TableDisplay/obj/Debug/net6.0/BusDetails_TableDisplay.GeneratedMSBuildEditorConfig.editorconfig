@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BusDetails_TableDisplay
+build_property.RootNamespace = BusDetails_TableDisplay
+build_property.ProjectDir = C:\Users\chandan\source\repos\BusDetails_TableDisplay\BusDetails_TableDisplay\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\chandan\source\repos\BusDetails_TableDisplay\BusDetails_TableDisplay
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/chandan/source/repos/BusDetails_TableDisplay/BusDetails_TableDisplay/Views/BusData/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVzRGF0YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chandan/source/repos/BusDetails_TableDisplay/BusDetails_TableDisplay/Views/BusData/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVzRGF0YVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chandan/source/repos/BusDetails_TableDisplay/BusDetails_TableDisplay/Views/BusData/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVzRGF0YVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chandan/source/repos/BusDetails_TableDisplay/BusDetails_TableDisplay/Views/BusData/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVzRGF0YVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chandan/source/repos/BusDetails_TableDisplay/BusDetails_TableDisplay/Views/BusData/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVzRGF0YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chandan/source/repos/BusDetails_TableDisplay/BusDetails_TableDisplay/Views/BusData/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVzRGF0YVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chandan/source/repos/BusDetails_TableDisplay/BusDetails_TableDisplay/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chandan/source/repos/BusDetails_TableDisplay/BusDetails_TableDisplay/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chandan/source/repos/BusDetails_TableDisplay/BusDetails_TableDisplay/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chandan/source/repos/BusDetails_TableDisplay/BusDetails_TableDisplay/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chandan/source/repos/BusDetails_TableDisplay/BusDetails_TableDisplay/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chandan/source/repos/BusDetails_TableDisplay/BusDetails_TableDisplay/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chandan/source/repos/BusDetails_TableDisplay/BusDetails_TableDisplay/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-m81hfgsrr3

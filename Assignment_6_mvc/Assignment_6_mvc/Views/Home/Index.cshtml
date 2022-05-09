@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @section scripts{
+        <script>
+        $(document).ready(function ()
+        {
+            $.ajax(
+                {
+                    type:"GET",
+                    url:"Home/GetServerTime",
+                    success : function(response){
+                        $(response).each(function()
+                        {
+                            alert("hello");
+                        }
+                        )
+                    },
+                    failure:function(response)
+                    {
+                        alert(response.responseText);
+                    },
+                    error:function(response){
+                         alert(response.responseText);
+                    }
+                }
+            )
+        }
+        )
+        </script>
+    }
+
+
+<span id="progress" style="display:none">Getting server 
+		time...wait...</span>
+
+<span id="result"></span>
+
+</div>

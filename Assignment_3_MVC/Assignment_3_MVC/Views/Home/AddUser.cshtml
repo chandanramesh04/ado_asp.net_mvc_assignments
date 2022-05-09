@@ -1,0 +1,25 @@
+﻿@model Assignment_3_MVC.Models.User
+
+@{
+    ViewData["Title"] = "AddUser";
+}
+
+<h1>AddUser</h1>
+
+@using (Html.BeginForm("SaveUser", "Home"))
+{
+    <p>
+        User Name: @Html.TextBoxFor(user => user.UserName)
+    </p>
+    
+    <p>
+        Password: @Html.PasswordFor(user => user.Password)
+    </p>
+    
+    <input type="submit" value="Add User" />
+}
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
